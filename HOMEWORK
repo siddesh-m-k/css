@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mix of files </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>this linking of files </h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="neighborhood.html">About</a></li>
+        <li><a href="parks.html">Contact</a></li>
+    </ul>
+</nav>
+
+<main>
+    <p>Modern frameworks use bundlers like Vite or Webpack to automatically handle CSS mixing.</p>
+</main>
+
+<footer>
+    <p>To mix, combine, or merge multiple CSS files into a single stylesheet, you can use native CSS features, preprocessors, or modern build tools. Combining files reduces HTTP requests and improves website loading speed.</p>
+</footer>
+
+</body>
+</html>
